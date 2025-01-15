@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wxy.lihadmiration.top/blog</id>
+    <title>Lihadmiration, towards the horizon Blog</title>
+    <updated>2025-01-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wxy.lihadmiration.top/blog"/>
+    <subtitle>Lihadmiration, towards the horizon Blog</subtitle>
+    <icon>https://wxy.lihadmiration.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[测试Blog]]></title>
+        <id>https://wxy.lihadmiration.top/blog/test-blog</id>
+        <link href="https://wxy.lihadmiration.top/blog/test-blog"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[哇！——Liha]]></summary>
+        <content type="html"><![CDATA[<p>哇！——Liha</p>]]></content>
+        <author>
+            <name>Shuuten-Suninc</name>
+            <uri>http://lihadmiration.top</uri>
+        </author>
+        <category label="关于本站" term="关于本站"/>
+    </entry>
+</feed>

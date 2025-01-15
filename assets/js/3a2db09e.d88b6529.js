@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklihadmiration=self.webpackChunklihadmiration||[]).push([[8121],{8070:i=>{i.exports=JSON.parse('{"tags":[{"label":"\u5173\u4e8e\u672c\u7ad9","permalink":"/blog/tags/thiswebsite","description":"\u5173\u4e8e\u672c\u7ad9\uff08lihadmiration.top\uff09\u7684\u4e00\u4e9b\u4e1c\u897f","count":1}]}')}}]);

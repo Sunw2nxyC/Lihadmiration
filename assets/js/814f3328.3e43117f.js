@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklihadmiration=self.webpackChunklihadmiration||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u6d4b\u8bd5Blog","permalink":"/blog/test-blog","unlisted":false,"date":"2025-01-15T00:00:00.000Z"}]}')}}]);
